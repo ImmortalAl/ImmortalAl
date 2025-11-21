@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey, I'm Immortal Al 👋
 
-<!--
-**ImmortalAl/ImmortalAl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent investigative journalist exploring hidden histories, suppressed research, and uncomfortable truths.
 
-Here are some ideas to get you started:
+## What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Deep-dive investigations** into topics mainstream media won't touch
+- **Weekly livestreams** covering history, anthropology, and current events
+- **Open-source tools** for independent creators and researchers
+
+## Find My Work
+
+🔍 **[Unearthed by Al](https://unearthedbyal.com)** - Investigative journalism & membership community
+
+📺 **[DLive](https://dlive.tv/ImmortalAl)** - Live shows Tuesdays & Saturdays
+
+📼 **[Odysee](https://odysee.com/@ImmortalAl)** - Video archive
+
+## Philosophy
+
+Building parallel systems. Platform independence. Financial sovereignty. Truth over popularity.
